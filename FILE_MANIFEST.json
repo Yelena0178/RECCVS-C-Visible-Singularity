@@ -1,0 +1,96 @@
+{
+  "source_commit": "fe457f6ea98818251f97251c4a1f7a50b862253b",
+  "scope": "byte integrity only",
+  "files": [
+    {
+      "path": "proofs/RECCVS_L004.md",
+      "size_bytes": 4299,
+      "sha256": "85b7a449586fd5516b3e9187d09ca861da5e81244ea6f330fd710ca61ac5b618"
+    },
+    {
+      "path": "proofs/RECCVS_L005.md",
+      "size_bytes": 3348,
+      "sha256": "3e66282d0384392d67a26e328730b0cf4d34d7ffa60210f73f68f3062b5faaa0"
+    },
+    {
+      "path": "proofs/RECCVS_L007.md",
+      "size_bytes": 3237,
+      "sha256": "551295a05fe2c632bac6e200fc51262522ff6a34b2540435a641b977f03f316c"
+    },
+    {
+      "path": "proofs/RECCVS_L008.md",
+      "size_bytes": 5680,
+      "sha256": "d303159b837cf8cf391866bd87ea027fa02640452a2d3236ced6a4c1d47036b1"
+    },
+    {
+      "path": "proofs/RECCVS_L009.md",
+      "size_bytes": 7889,
+      "sha256": "c84abd0106b72d779c84e01f674b7445ec240e757edc274169001788655ca75e"
+    },
+    {
+      "path": "proofs/RECCVS_L010.md",
+      "size_bytes": 3495,
+      "sha256": "7bbf9ff79b1919c60ff16cc8ad0c9a08fbc78546ebce2964ecbb2772724a7705"
+    },
+    {
+      "path": "proofs/RECCVS_L011.md",
+      "size_bytes": 4956,
+      "sha256": "e8951aa82c7540e9aeec615ec9327705132611b44c2e5667cc4a54a357d3d96a"
+    },
+    {
+      "path": "proofs/RECCVS_L012.md",
+      "size_bytes": 11115,
+      "sha256": "3b48638b9968005f72da32ba1d35c93fa973bc260e514d54bc3599bd7998c35f"
+    },
+    {
+      "path": "proofs/RECCVS_L013.md",
+      "size_bytes": 4306,
+      "sha256": "61c0378c3e9e357a7108dc55b92b5ac254b24d68f66dc95c5986bcc61cd33ff8"
+    },
+    {
+      "path": "proofs/RECCVS_L014.md",
+      "size_bytes": 5297,
+      "sha256": "8ed5567dad1e15aeb7e2940b5ce2e9476ef0ee63e3bd4aa62f96ed3aaf93b35c"
+    },
+    {
+      "path": "proofs/RECCVS_L015.md",
+      "size_bytes": 8777,
+      "sha256": "384c7d9f94d385cdbea3d16143bafe2473a698241b7ccfdb07748249bca68991"
+    },
+    {
+      "path": "proofs/RECCVS_L016.md",
+      "size_bytes": 4291,
+      "sha256": "20847dc17acb29a401ac7502505abae9a384a75ba3c8af8a892daa107be80d65"
+    },
+    {
+      "path": "proofs/RECCVS_L017.md",
+      "size_bytes": 4693,
+      "sha256": "9c26d2f6730866df0cf6273168091feee5ca269628122b06714860d415592a91"
+    },
+    {
+      "path": "proofs/RECCVS_L018.md",
+      "size_bytes": 5473,
+      "sha256": "63fdef29eb56240097d02f6f32ff7fb15a56070f1718a98056ce5e19278a2daf"
+    },
+    {
+      "path": "proofs/RECCVS_L019.md",
+      "size_bytes": 3679,
+      "sha256": "f83c36b92fca038e41c66e0b4c8092429aa6eaf48ba9ae64b1b3134c83c78d3a"
+    },
+    {
+      "path": "experiments/kernel_algebra.py",
+      "size_bytes": 988,
+      "sha256": "11d7e43feceb6a7299248db4dd38a51039d73e3c288b5f196b159cab2fea6667"
+    },
+    {
+      "path": "experiments/requirements-kernel.txt",
+      "size_bytes": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    },
+    {
+      "path": "experiments/KERNEL_ALGEBRA_RESULT.txt",
+      "size_bytes": 198,
+      "sha256": "0d296bfe311f361374c8858409be3e7620ca73b3e4b0993e9894047fb9da76e9"
+    }
+  ]
+}

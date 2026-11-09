@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this research snapshot with its version and identify any proof dependencies."
+title: "RECCVS Goal C · Visible Singularity"
+type: software
+authors:
+  - family-names: Zeng
+    given-names: Junbo
+repository-code: "https://github.com/Yelena0178/RECCVS-C-Visible-Singularity"
+abstract: "A focused RECCVS research repository. Its main goal remains open."
+keywords:
+  - mathematical relativity
+  - extremal black holes
+  - critical collapse
+  - charged scalar field
